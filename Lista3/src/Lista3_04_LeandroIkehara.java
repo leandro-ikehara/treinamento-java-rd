@@ -22,7 +22,7 @@ public class Lista3_04_LeandroIkehara {
 		int y = s.nextInt();
 
 		double soma = arrayDeOito[x] + arrayDeOito[y];
-		System.out.println("NÃºmeros escolhidos: " + Arrays.toString(arrayDeOito));
+		System.out.println("Números escolhidos: " + Arrays.toString(arrayDeOito));
 		System.out.println("Soma das posições " + x + " e " + y + " = " + soma);
 
 		s.close();

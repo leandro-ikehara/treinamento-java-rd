@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.awt.print.Printable"/>
+    <fullyQualifiedTypeName name="com.empresa.model.Civic"/>
+    <fullyQualifiedTypeName name="com.empresa.model.Ferrari"/>
+    <fullyQualifiedTypeName name="com.empresa.model.Carro"/>
 </qualifiedTypeNameHistroy>
